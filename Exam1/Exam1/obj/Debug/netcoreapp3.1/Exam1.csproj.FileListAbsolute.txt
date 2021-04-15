@@ -1,0 +1,12 @@
+/Users/huyenchu/Projects/Exam1/Exam1/bin/Debug/netcoreapp3.1/Exam1.deps.json
+/Users/huyenchu/Projects/Exam1/Exam1/bin/Debug/netcoreapp3.1/Exam1.runtimeconfig.json
+/Users/huyenchu/Projects/Exam1/Exam1/bin/Debug/netcoreapp3.1/Exam1.runtimeconfig.dev.json
+/Users/huyenchu/Projects/Exam1/Exam1/bin/Debug/netcoreapp3.1/Exam1.dll
+/Users/huyenchu/Projects/Exam1/Exam1/bin/Debug/netcoreapp3.1/Exam1.pdb
+/Users/huyenchu/Projects/Exam1/Exam1/obj/Debug/netcoreapp3.1/Exam1.csprojAssemblyReference.cache
+/Users/huyenchu/Projects/Exam1/Exam1/obj/Debug/netcoreapp3.1/Exam1.AssemblyInfoInputs.cache
+/Users/huyenchu/Projects/Exam1/Exam1/obj/Debug/netcoreapp3.1/Exam1.AssemblyInfo.cs
+/Users/huyenchu/Projects/Exam1/Exam1/obj/Debug/netcoreapp3.1/Exam1.csproj.CoreCompileInputs.cache
+/Users/huyenchu/Projects/Exam1/Exam1/obj/Debug/netcoreapp3.1/Exam1.dll
+/Users/huyenchu/Projects/Exam1/Exam1/obj/Debug/netcoreapp3.1/Exam1.pdb
+/Users/huyenchu/Projects/Exam1/Exam1/obj/Debug/netcoreapp3.1/Exam1.genruntimeconfig.cache
